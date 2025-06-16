@@ -26,7 +26,7 @@ ipl_win_probability_predictor_p/ │── templates/ # HTML templates for web a
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/ipl_win_probability_predictor_p.git cd ipl_win_probability_predictor_p
+git clone https://github.com/MasterSailor10/ipl_win_probability_predictor_s.git cd ipl_win_probability_predictor_p
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
