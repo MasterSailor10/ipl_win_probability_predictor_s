@@ -2,7 +2,7 @@
 
 Predict the Winning Probability of an IPL Match in Real-Time
 
-🔗 Repository: MasterSailor10/ipl_win_probability_predictor_p
+🔗 Repository: MasterSailor10/ipl_win_probability_predictor_s
 
 🚀 Overview
 
@@ -14,7 +14,7 @@ The IPL Win Probability Predictor is a machine learning-based web application de
 
 📂 Project Structure
 
-ipl_win_probability_predictor_p/ │── templates/ # HTML templates for web app
+ipl_win_probability_predictor_s/ │── templates/ # HTML templates for web app
 │── app.py # Flask web application
 │── matches.csv # Dataset containing past IPL match data
 │── pipe.pkl # Trained ML model pipeline
@@ -26,7 +26,7 @@ ipl_win_probability_predictor_p/ │── templates/ # HTML templates for web a
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/ipl_win_probability_predictor_s.git cd ipl_win_probability_predictor_p
+git clone https://github.com/MasterSailor10/ipl_win_probability_predictor_s.git cd ipl_win_probability_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
